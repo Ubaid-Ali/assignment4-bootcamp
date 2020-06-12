@@ -1,4 +1,60 @@
-.App {
+
+
+.box {
+  margin: 50px;
+  padding: 50px;
+  text-align: center;
+  background-color: lightblue;
+  height: 300px;
+  border-radius: 10px;
+}
+
+.sunny {
+  margin: 50px;
+  padding: 50px;
+  text-align: center;
+  background-color: rgb(231, 231, 96);
+  height: 300px;
+}
+
+div button {
+  padding: 5px;
+  font-size: larger;
+  border-radius: 5px;
+  background-color: lightgrey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +91,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
